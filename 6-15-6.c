@@ -1,4 +1,4 @@
-#include<stdio.h>//��ϰ�⣬��ӡͼ��  
+#include<stdio.h>//¸´Ï°Ìâ£¬´òÓ¡Í¼°¸  
 int main()
 {
 	int i,n;
